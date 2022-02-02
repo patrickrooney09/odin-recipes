@@ -1,0 +1,11 @@
+body{
+    background-color:maroon;
+    color:white;
+    text-align:center;
+}
+ul{
+    list-style-type:none;
+}
+ol{
+    list-style-position:inside;
+}

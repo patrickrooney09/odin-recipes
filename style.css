@@ -1,0 +1,24 @@
+body{
+    background-color:maroon;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family: "Palatino, sans-serif";
+    font-size:42px;
+}
+
+ul{
+    color:black;
+    text-align:center;
+    list-style-type:none;
+    
+
+}
+a{
+    color:black;
+    text-align:center;
+    font-family:"Palatino, sans-serif";
+    font-size: 24px;
+}
