@@ -13,8 +13,9 @@ ul{
     color:black;
     text-align:center;
     list-style-type:none;
-    
-
+   }
+li{
+    padding:20px;
 }
 a{
     color:black;
@@ -22,3 +23,9 @@ a{
     font-family:"Palatino, sans-serif";
     font-size: 24px;
 }
+button{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+
